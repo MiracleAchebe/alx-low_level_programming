@@ -1,3 +1,6 @@
 #include <stdio.h>
-/* main A statement that uses put/*
-Return:0
+Int main()
+{
+   puts("Programming is like building a multilingual puzzle\n");
+   return 0;
+}
