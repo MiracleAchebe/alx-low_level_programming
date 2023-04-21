@@ -5,7 +5,7 @@
 
 
 /**
- * void print_numbers - function that prints number
+ * print_numbers - function that prints number
  * @separator : string to be printed between numbers
  * @n :  Number of integers passed to the function
  * @...: variable numbers to be printed
